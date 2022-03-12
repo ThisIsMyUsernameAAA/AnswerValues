@@ -1,1 +1,26 @@
-
+[
+	{
+		"id": "answer",
+		"name": "Answer Axis",
+		"weights": [5, 10, 15, 20, 10, 20, 15, 105, ],
+		"left": {
+			"name": "Agree",
+			"color": "#d32f2f",
+			"description": "Those with higher agree scores agree with the question"
+		},
+		"right": {
+			"name": "Disagree",
+			"color": "#00796b",
+			"description": "Those with higher disagree scores agree with the question"
+		},
+		"tiers": [
+			"I'd go further",
+			"Strongly Agree",
+			"Agree",
+			"Neutral/Unsure",
+			"Disagree",
+			"Strongly Disagree"
+			"This sentence angers me"
+		]
+	}
+]

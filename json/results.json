@@ -1,0 +1,44 @@
+[
+	{
+		"name": "I'd go furtherism",
+		"stats": {
+			"answer": 125
+		}
+	},
+	{
+		"name": "Strongly Agreeism",
+		"stats": {
+			"answer": 100
+		}
+	},
+	{
+		"name": "Agreeism",
+		"stats": {
+			"answer": 75
+		}
+	},
+	{
+		"name": "Neutral/Unsureism",
+		"stats": {
+			"answer": 50
+		}
+	},
+	{
+		"name": "Disagreeism",
+		"stats": {
+			"answer": 25
+		}
+	},
+	{
+		"name": "Strongly Disagreeism",
+		"stats": {
+			"answer": 0
+		}
+	},
+	{
+		"name": "This Sentence Angers Meism",
+		"stats": {
+			"answer": -25
+		}
+	}
+]
