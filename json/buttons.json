@@ -1,11 +1,5 @@
 [
 	{
-		"name": "I'd go further",
-		"modifier": 1.5,
-		"color": "#2b4005",
-		"focusColor": "#141e02"
-	},
-	{
 		"name": "Strongly Agree",
 		"modifier": 1,
 		"color": "#1b5e20",
