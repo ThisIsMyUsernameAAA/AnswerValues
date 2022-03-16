@@ -14,11 +14,11 @@
 			"description": "Those with higher agree scores tend to agree"
 		},
 		"tiers": [
-			"Strongly Agree",
-			"Agree",
-			"Neutral/Unsure",
+			"Strongly Disagree",
 			"Disagree",
-			"Strongly Disagree"
+			"Neutral/Unsure",
+			"Agree",
+			"Strongly Agree"
 		]
 	}
 ]
