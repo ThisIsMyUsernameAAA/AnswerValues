@@ -1,12 +1,12 @@
 [
 	{
-		"name": "Strongly Disagreeism",
+		"name": "Strongly Agreeism",
 		"stats": {
 			"answer": 100
 		}
 	},
 	{
-		"name": "Disagreeism",
+		"name": "Agreeism",
 		"stats": {
 			"answer": 75
 		}
@@ -18,13 +18,13 @@
 		}
 	},
 	{
-		"name": "Agreeism",
+		"name": "Disagreeism",
 		"stats": {
 			"answer": 25
 		}
 	},
 	{
-		"name": "Strongly Agreeism",
+		"name": "Strongly Disagreeism",
 		"stats": {
 			"answer": 0
 		}
