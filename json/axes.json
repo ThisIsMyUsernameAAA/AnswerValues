@@ -4,21 +4,21 @@
 		"name": "Answer",
 		"weights": [10, 15, 20, 10, 20, 15, 10],
 		"left": {
-			"name": "Disagree",
-			"color": "#F44336",
-			"description": "Those with higher disagree scores tend to disagree"
-		},
-		"right": {
 			"name": "Agree",
-			"color": "#4CAF50",
+			"color": "#F44336",
 			"description": "Those with higher agree scores tend to agree"
 		},
+		"right": {
+			"name": "Disagree",
+			"color": "#4CAF50",
+			"description": "Those with higher disagree scores tend to disagree"
+		},
 		"tiers": [
-			"Strongly Disagree",
-			"Disagree",
-			"Neutral/Unsure",
+			"Strongly Agree",
 			"Agree",
-			"Strongly Agree"
+			"Neutral/Unsure",
+			"Disagree",
+			"Strongly Disagree"
 		]
 	}
 ]
