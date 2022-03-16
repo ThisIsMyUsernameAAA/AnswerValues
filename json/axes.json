@@ -10,7 +10,7 @@
 		},
 		"right": {
 			"name": "Agree",
-			"color": "#00897B",
+			"color": "#4CAF50",
 			"description": "Those with higher agree scores tend to agree"
 		},
 		"tiers": [
