@@ -14,11 +14,13 @@
 			"description": "Those with higher disagree scores tend to disagree"
 		},
 		"tiers": [
+			"I'd go further",
 			"Strongly Agree",
 			"Agree",
 			"Neutral/Unsure",
 			"Disagree",
-			"Strongly Disagree"
+			"Strongly Disagree",
+			"This sentence makes me angry"
 		]
 	}
 ]
